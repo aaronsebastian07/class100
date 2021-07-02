@@ -1,0 +1,26 @@
+ class car(object):
+ def _init_{self, model, color, company, speed_limit}
+    self.color = color
+    self.company = company
+    self.speed_limit = speed_limit
+    self.model = model
+
+def start(self):
+    print("started")
+
+def stop(self):
+    print("stopped")
+
+def accelerate(self)
+    print("accelerating....")
+    "accelerator functionality here"
+
+def change_gear(self, hear_type):
+    print("gear_changed")
+    "gear related functionality here"
+
+#audi = car("A6", "red", "audi", 80)
+#audi.color output is red
+#audi.company outpud is audi
+#audi.model output is A6
+#audi.speed output is 80
